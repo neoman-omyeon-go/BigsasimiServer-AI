@@ -1,36 +1,24 @@
+# builtin_module
+import os, shutil
+import asyncio
+
+# module
+from src.api import test
+from src.util import timeCheck_function
+
+# fast
+from fastapi.responses import JSONResponse
+from fastapi.staticfiles import StaticFiles
 from typing import Union
 from fastapi import FastAPI, File, UploadFile
-from src.api import test, test1
-
-import asyncio
-import time
-
-from src.util import timeCheck_function
-import os, shutil
-from fastapi.responses import JSONResponse
-
 
 app = FastAPI()
+app.mount("/static", StaticFiles(directory="images"), name="images")
 
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
 
-@app.get("/ai/{sleep}")
-@timeCheck_function
-def test_delay_and_model(sleep: int, q: Union[str, None] = None):
-    task1=test()
-    time.sleep(sleep)
-    return {"sleep": sleep, "q": q}
-
-@app.post("/files/")
-async def create_file(file: bytes = File(...)):
-    return {"file_size": len(file)}
-
-
-@app.post("/uploadfile/")
-async def create_upload_file(file: UploadFile):
-    return {"filename": file.filename}
 
 async def save_file(file:UploadFile):
     try:
@@ -49,7 +37,22 @@ async def save_file(file:UploadFile):
     except Exception as e:
         return JSONResponse(content={"error": str(e)}, status_code=500)
 
+
 @app.post("/imageupload/")
 async def store_file(file: UploadFile = File(...)):
     result = await save_file(file)
+    return result
+
+
+async def sleep_test(t:int):
+    print("시작")
+    for i in range(t):
+        await asyncio.sleep(1)
+    print("끝")
+    return {"sleep": t}
+
+
+@app.get("/test/{sleep}")
+async def test_delay_and_model(sleep: int):
+    result = await sleep_test(sleep)
     return result
