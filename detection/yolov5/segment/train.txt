@@ -1,0 +1,96 @@
+/home/eslab/osh/CapStone/data9/비비고 김치볶음 뒷면.jpg
+/home/eslab/osh/CapStone/data9/제로 콜라.jpg
+/home/eslab/osh/CapStone/data9/레모나.jpg
+/home/eslab/osh/CapStone/data9/비비고 김치볶음.jpg
+/home/eslab/osh/CapStone/data9/고소한 현미 그래놀라.jpg
+/home/eslab/osh/CapStone/data9/닭가슴살 한끼 통살핫양념치킨맛.jpg
+/home/eslab/osh/CapStone/data9/콜라.jpg
+/home/eslab/osh/CapStone/data9/스팸.jpg
+/home/eslab/osh/CapStone/data9/마카다미아 넛 아이스크림.png
+/home/eslab/osh/CapStone/data9/꼬꼬면.png
+/home/eslab/osh/CapStone/data9/카프리썬_사과_200ml.png
+/home/eslab/osh/CapStone/data9/웰치스_포도_1.5L.png
+/home/eslab/osh/CapStone/data9/환타_파인애플_500ml.png
+/home/eslab/osh/CapStone/data9/스팸_마일드.png
+/home/eslab/osh/CapStone/data9/리챔.png
+/home/eslab/osh/CapStone/data9/게토레이레몬_1.5L.png
+/home/eslab/osh/CapStone/data9/매실_썬키스트_175ml.png
+/home/eslab/osh/CapStone/data9/m&m.png
+/home/eslab/osh/CapStone/data9/오징어짬뽕.png
+/home/eslab/osh/CapStone/data9/신라면.png
+/home/eslab/osh/CapStone/data9/덴마크 드링킹 요구르트 파인애플.png
+/home/eslab/osh/CapStone/data9/가나초코바.png
+/home/eslab/osh/CapStone/data9/쇠고기죽.png
+/home/eslab/osh/CapStone/data9/비요뜨_크런치볼_143g.png
+/home/eslab/osh/CapStone/data9/암바사_밀크소다_1.5L.png
+/home/eslab/osh/CapStone/data9/무파마.png
+/home/eslab/osh/CapStone/data9/제주감귤_1.5L.png
+/home/eslab/osh/CapStone/data9/동원고추참치_150g.png
+/home/eslab/osh/CapStone/data9/환타_파인애플_250ml.png
+/home/eslab/osh/CapStone/data9/밀키스제로_500ml.png
+/home/eslab/osh/CapStone/data9/몬스터_에너지망고로코_355ml.png
+/home/eslab/osh/CapStone/data9/왕뚜껑.png
+/home/eslab/osh/CapStone/data9/서울우유.png
+/home/eslab/osh/CapStone/data9/더 단백 커피.png
+/home/eslab/osh/CapStone/data9/허쉬 초콜릿 케이크.png
+/home/eslab/osh/CapStone/data9/카구리_컵라면.png
+/home/eslab/osh/CapStone/data9/열라면_컵라면.png
+/home/eslab/osh/CapStone/data9/포스틱.png
+/home/eslab/osh/CapStone/data9/에너지피치킨_몬스터_355ml.png
+/home/eslab/osh/CapStone/data9/동원쿨피스복숭아_450ml.png
+/home/eslab/osh/CapStone/data9/참깨스틱 진.png
+/home/eslab/osh/CapStone/data9/신라면블랙.png
+/home/eslab/osh/CapStone/data9/갈배사이다제로_1.5L.png
+/home/eslab/osh/CapStone/data9/칠성사이다_업소용_355ml.png
+/home/eslab/osh/CapStone/data9/양파링.png
+/home/eslab/osh/CapStone/data9/비요뜨_초코링_143g.png
+/home/eslab/osh/CapStone/data9/에이스.png
+/home/eslab/osh/CapStone/data9/햇반_큰공기.png
+/home/eslab/osh/CapStone/data9/짜파게티_컵라면.png
+/home/eslab/osh/CapStone/data9/신라면건면.png
+/home/eslab/osh/CapStone/data9/카프리썬_알래스카_200ml.png
+/home/eslab/osh/CapStone/data9/카프리썬_망고_200ml.png
+/home/eslab/osh/CapStone/data9/칸타타_블랙플러스_275ml.png
+/home/eslab/osh/CapStone/data9/김치큰사발면.png
+/home/eslab/osh/CapStone/data9/샤인머스캣(제로)웰치스_500ml.png
+/home/eslab/osh/CapStone/data9/3분 미트볼.png
+/home/eslab/osh/CapStone/data9/웰치스_오렌지_355ml.png
+/home/eslab/osh/CapStone/data9/비락식혜_1.5L.png
+/home/eslab/osh/CapStone/data9/초코파이.png
+/home/eslab/osh/CapStone/data9/너구리.png
+/home/eslab/osh/CapStone/data9/튀김우동_컵라면.png
+/home/eslab/osh/CapStone/data9/진라면 매운맛.png
+/home/eslab/osh/CapStone/data9/써니텐파인_1.5L.png
+/home/eslab/osh/CapStone/data9/짬뽕왕뚜껑.png
+/home/eslab/osh/CapStone/data9/포카칩 어니언맛.png
+/home/eslab/osh/CapStone/data9/테이크 얼라이브 망고.png
+/home/eslab/osh/CapStone/data9/카프리썬_사파리_200ml.png
+/home/eslab/osh/CapStone/data9/사천짜파게티.png
+/home/eslab/osh/CapStone/data9/짜파게티.png
+/home/eslab/osh/CapStone/data9/웰치스_청포도_1.5L.png
+/home/eslab/osh/CapStone/data9/새우깡.png
+/home/eslab/osh/CapStone/data9/동원참치_135g.png
+/home/eslab/osh/CapStone/data9/콘칩.png
+/home/eslab/osh/CapStone/data9/동원고추참치_90g.png
+/home/eslab/osh/CapStone/data9/써니텐오렌지_1.5L.png
+/home/eslab/osh/CapStone/data9/데미소다사과_250ml.png
+/home/eslab/osh/CapStone/data9/파이프라인펀치_몬스터_355ml.png
+/home/eslab/osh/CapStone/data9/감자깡.png
+/home/eslab/osh/CapStone/data9/짜왕.png
+/home/eslab/osh/CapStone/data9/치토스 스모키바베큐맛.png
+/home/eslab/osh/CapStone/data9/스프라이트.png
+/home/eslab/osh/CapStone/data9/칠성사이다제로_업소용_355ml.png
+/home/eslab/osh/CapStone/data9/콘트라베이스스위트아몬드_500ml.png
+/home/eslab/osh/CapStone/data9/육개장라면.png
+/home/eslab/osh/CapStone/data9/서울우유_커피.png
+/home/eslab/osh/CapStone/data9/육개장큰사발.png
+/home/eslab/osh/CapStone/data9/마운틴듀_355ml.png
+/home/eslab/osh/CapStone/data9/갈배사이다제로_500ml.png
+/home/eslab/osh/CapStone/data9/팔도 비빔면.png
+/home/eslab/osh/CapStone/data9/허니버터칩.png
+/home/eslab/osh/CapStone/data9/틈새라면 매운 짜장.png
+/home/eslab/osh/CapStone/data9/신라면더레드.png
+/home/eslab/osh/CapStone/data9/사리곰탕.png
+/home/eslab/osh/CapStone/data9/레몬에이드_1.5L.png
+/home/eslab/osh/CapStone/data9/꼬북칩 콘스프맛.png
+/home/eslab/osh/CapStone/data9/카프리썬_오렌지_200ml.png
