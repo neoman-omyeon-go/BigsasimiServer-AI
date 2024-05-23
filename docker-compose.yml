@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  fastapi:
+    build: .
+    container_name: fastapi
+    command: python main.py
+    ports:
+      - 8001:8001
+    # volumes:
+      # - .:/app
